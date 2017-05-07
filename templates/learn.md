@@ -40,7 +40,7 @@ Find resources that explain the subject and try to include some of the following
 
 * Determine the chunks you need to learn
 * Determine what you need to memorize
-* Is there a [project]() or other hands on activities you can execute to help learn?
+* Is there a [project](https://github.com/thinkingserious/learning-to-learn-templates/blob/master/templates/project.md) or other hands on activities you can execute to help learn?
 * Write a blog post or create a podcast, or something similar, teaching what you learned to others
 * Create flash cards (Written and Anki)
 * Find a study group where you can be challenged on your knowledge

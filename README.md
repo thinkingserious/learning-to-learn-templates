@@ -8,14 +8,14 @@ I recommend that you add these templates to a folder titled learning in [TextExp
 
 # Templates
 
-## Learn
+## [Learn](https://github.com/thinkingserious/learning-to-learn-templates/blob/master/templates/learn.md)
 
 For learning a new subject.
 
-## Project
+## [Project](https://github.com/thinkingserious/learning-to-learn-templates/blob/master/templates/project.md)
 
 For helping ensure the best outcome for any project.
 
-## Meeting
+## [Meeting](https://github.com/thinkingserious/learning-to-learn-templates/blob/master/templates/meeting.md)
 
 For optimizing your meetings.
